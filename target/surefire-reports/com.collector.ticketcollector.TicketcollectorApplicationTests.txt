@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.collector.ticketcollector.TicketcollectorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.770 s -- in com.collector.ticketcollector.TicketcollectorApplicationTests
